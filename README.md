@@ -14,7 +14,7 @@ b1-->b4((block four))
 style b4 stroke-width:3,stroke-dasharray:5 5,color:blue
 b1--abc-->b5(Block five)
 style b5 fill:lightgreen
-b1--->b6:::grayBlock
+b1--->b6:::grayBlock/Block six]
 ```
 ## with the Elk renderer
 ```mermaid
