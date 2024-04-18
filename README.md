@@ -7,5 +7,5 @@ b1[Block One]-->b2[Block two]
 style b1 fill:red,stroke:red,shadow:shadow,color:white
 style b2 fill:blue,color:yellow
 b1-->b3[Block three]
-style b3 fill:green,color:white
+style b3 fill:green,color:white,stroke-width:5px
 ```
