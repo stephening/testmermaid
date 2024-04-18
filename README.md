@@ -19,6 +19,7 @@ b1--->b6[Block six]:::grayBlock
 ## with the Elk renderer
 ```mermaid
 %%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
+classDef grayBlock fill:#63666a,color:#fff
 graph LR
 b1[Block One]-->b2[Block two]
 style b1 fill:red,stroke:red,shadow:shadow,color:white
